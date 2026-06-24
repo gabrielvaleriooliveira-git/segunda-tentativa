@@ -50,13 +50,12 @@ text-align: center;
 
 }
 .estudante-nome{
-text-align: flex-end;
+text-align: baseline;
 justify-content: space-around;
 
 }
 .estudante-imagem{
 width: 120px;
-align-items: flex-end
 }
 .estudante-icone{
 width: 38px;
