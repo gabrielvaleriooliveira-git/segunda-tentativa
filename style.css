@@ -55,10 +55,7 @@ justify-content: space-around;
 
 }
 .estudante-imagem{
-width: 120px;
-text-align: flex-end;
-justify-content: space-around;
-
+max-width: 120px;
 }
 .estudante-icone{
 width: 38px;
