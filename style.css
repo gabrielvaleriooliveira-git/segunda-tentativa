@@ -50,7 +50,8 @@ text-align: center;
 
 }
 .estudante-nome{
-text-align: center;
+text-align: flex-end;
+
 }
 .estudante-imagem{
 width: 120px;
