@@ -1,2 +1,2 @@
 # segunda-tentativa
-Tá foda
+Desculpa por entregar esse lixo
