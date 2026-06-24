@@ -5,7 +5,8 @@ box-sizing: border-box;
 }
 body{
 font-family: "Poppins", sans-serif;
-background-color:black
+color: white;
+background-color:black;
 }
 header{
 background-color:#7A1CAC;
