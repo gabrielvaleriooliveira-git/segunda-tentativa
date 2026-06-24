@@ -9,7 +9,7 @@ background-color: #111;
 color: #f0f0f0;
 }
 header{
-background-color:#7A1CAC
+background-color:#7A1CAC;
 color: white;
 width: 100%;
 padding: 20px;
@@ -22,7 +22,7 @@ align-items: center;
 justify-content: center;
 }
 .cabecalho-imagem{
-width: 10%;
+width: 7%;
 display: flex;
 justify-content: flex-start;
 align-items: left;
