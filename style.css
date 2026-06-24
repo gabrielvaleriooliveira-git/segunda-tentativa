@@ -56,7 +56,8 @@ justify-content: space-around;
 }
 .estudante-imagem{
 width: 120px;
-
+text-align: center;
+justify-content: space-around;
 
 }
 .estudante-icone{
