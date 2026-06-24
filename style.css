@@ -50,7 +50,7 @@ text-align: center;
 
 }
 .estudante-nome{
-text-align: center;
+text-align: flex-end;
 justify-content: space-around;
 
 }
