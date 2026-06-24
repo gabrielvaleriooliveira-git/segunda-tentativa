@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 body{
 font-family: "Poppins", sans-serif;
-background-color: #111;
+background-color: #2E073F;
 color: #f0f0f0;
 }
 header{
@@ -50,7 +50,7 @@ text-align: center;
 
 }
 .estudante-nome{
-text-align: flex-end;
+text-align: center;
 justify-content: space-around;
 
 }
