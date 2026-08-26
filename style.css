@@ -95,6 +95,15 @@ padding: 12px 0;
 
 }
 
+.container-video{
+justify-content: center;
+}
+
+.titulo-video{
+width: 120px;
+justify-content: center;
+}
+
 .link{
 color: #ffffff;
 text-decoration: none;
