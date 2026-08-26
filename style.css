@@ -6,11 +6,11 @@ box-sizing: border-box;
 body{
 font-family: "Poppins", sans-serif;
 background-color: black;
-color: #f0f0f0;
+color: black;
 }
 header{
 background-color:#7A1CAC;
-color: white;
+color: black;
 width: 100%;
 padding: 20px;
 }
